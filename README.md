@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
 
-<!--
-**Sh0ookshed/Sh0ookshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am mostly interested in cybersecurity, game development and web scraping. My current OS is Windows for my main pc and Void Linux for my laptop.
 
-Here are some ideas to get you started:
+I want to pursue software development / engineering as a career because I like making cool projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+* Python
+* Rust
+* HTML, CSS, JavaScript
+## Currently Learning
+* React
+* TypeScript
+* Java
+## Would Like to Learn
+* C++
+* More about cybersecurity.
