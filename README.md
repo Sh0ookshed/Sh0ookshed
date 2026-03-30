@@ -1,4 +1,4 @@
-- I am mostly interested in cybersecurity, game development and web scraping.
+- I am mostly interested in cybersecurity and game development.
 - I mainly use Python, Rust and JS
 - I am currently learning React, TypeScript and Java
 - I would like to learn C++
