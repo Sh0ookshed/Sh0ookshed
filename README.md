@@ -1,4 +1,5 @@
 - I am mostly interested in cybersecurity and game development.
-- I mainly use Python, Rust and JS
+- I mainly use Python, Rust and JavaScript
 - I am currently learning React, TypeScript and Java
 - I would like to learn C++
+- Sadly most of my repos are private :disappointed:
