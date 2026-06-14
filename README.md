@@ -1,4 +1,4 @@
-- I am mostly interested in data analytics (particularly in sport).
+- I am mostly interested in data analytics (particularly sports analytics in Football).
 - I am also interested in cybersecurity.
 - I mainly use Python, Rust and JavaScript.
 - I am currently learning React, TypeScript and Java.
