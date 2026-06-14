@@ -1,5 +1,6 @@
-- I am mostly interested in data analytics (particularly in sport) and cybersecurity.
-- I mainly use Python, Rust and JavaScript
-- I am currently learning React, TypeScript and Java
-- I would like to learn C++
+- I am mostly interested in data analytics (particularly in sport).
+- I am also interested in cybersecurity.
+- I mainly use Python, Rust and JavaScript.
+- I am currently learning React, TypeScript and Java.
+- I would like to learn C++.
 - Sadly most of my repos are private :disappointed:
