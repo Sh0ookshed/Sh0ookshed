@@ -4,5 +4,4 @@
 - I mainly use Python, Rust and JavaScript.
 - I am currently learning React, TypeScript and Java.
 - I would like to learn C++.
-- I make many different things.
 - Sadly most of my repos are private :disappointed:
