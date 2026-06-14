@@ -1,6 +1,8 @@
-- I am mostly interested in data analytics (particularly sports analytics in Football).
-- I am also interested in cybersecurity.
+- I am mostly interested in data analytics (particularly sports analytics in football).
+- My main goal currently is to become a football sports analyist.
+- I am however also interested in cybersecurity.
 - I mainly use Python, Rust and JavaScript.
 - I am currently learning React, TypeScript and Java.
 - I would like to learn C++.
+- I make many different things.
 - Sadly most of my repos are private :disappointed:
